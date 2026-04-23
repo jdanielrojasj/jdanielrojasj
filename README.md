@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Dani👋
 
 <!--
 **jdanielrojasj/jdanielrojasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="2492" height="1886" alt="image" src="https://github.com/user-attachments/assets/6ede361a-b12f-479b-8803-08ddd935197f" />
-![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=social)
